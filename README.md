@@ -4,8 +4,7 @@
 
 # (─ ‿ ─) About Me 👋:
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/eb/0d/76/eb0d76b8895808ae4eacd0a9ac4f6ace.gif">
-
-👋 About Me<br>
+<br>
 🧑🏼‍💻 Full Stack AI Developer | Freelance<br>
 👨🏼‍🎓 Background: Studied Computer Science, majoring in Software Engineering<br><br>
 Skills:<br>
@@ -13,7 +12,7 @@ Skills:<br>
 🖥️ Full-fledged AI Applications (from idea to deployment)<br>
 📜 Published a paper on Product Recommendation using Deep Learning in Computer Vision (helping you find what to buy faster than you can say “add to cart”)<br><br>
 Fun Facts:<br>
-Enjoys debugging—because who doesn’t love a good mystery? 🕵️‍♂️
+Has mastered the art of talking to computers (and sometimes they even listen) 🕵️‍♂️
 
 
 ## 🌐 Socials:
