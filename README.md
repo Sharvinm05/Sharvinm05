@@ -1,4 +1,6 @@
-[![MasterHead](https://i.imgur.com/qCPpP8C.gif)](https://sharvin-mogan.netlify.app)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/12/b2/3a/12b23a7752e8a7a4464c1ff5e596237f.gif" alt="MasterHead" style="max-width: 100%; display: inline-block;"/>
+</p>
 # (─ ‿ ─) About Me 👋:
 👋 About Me<br>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenk1bnhudjg5MG1jZ29sbmF5bndyNXB0cnduZXVyd3h2dXlrZmhheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
